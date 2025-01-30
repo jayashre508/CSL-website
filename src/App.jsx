@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import Home from "./components/Home/Home";
-import VideoPage from "./Pages/videoPage";
+import VideoPage from "./Pages/VideoPage";
 // import VideoPage from "./Pages/VideoPage";
 
 function App() {
